@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "934734498929",
+    "firebase_url": "https://instageram-64f3a.firebaseio.com",
+    "project_id": "instageram-64f3a",
+    "storage_bucket": "instageram-64f3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934734498929:android:96fefe19f117f323",
+        "android_client_info": {
+          "package_name": "com.instageram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934734498929-cdkg1hpsplvgjsonf40ibkpjmbj2qulh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.instageram",
+            "certificate_hash": "0bc99dbd2eab0a3aaa59c7003afb993560099ea5"
+          }
+        },
+        {
+          "client_id": "934734498929-85f3hn8nman1lualdu235qeip78oi0e4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoLJmy56HiQrT7GTBnwEhVYbR5nGqHXmA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "934734498929-85f3hn8nman1lualdu235qeip78oi0e4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
